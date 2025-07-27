@@ -1,2 +1,2 @@
 # git-ex-team-project
-xla vmfhwprxm GitHub 사용 연습 Repository입니다.
+팀 프로젝트 GitHub 사용 연습 Repository입니다.
